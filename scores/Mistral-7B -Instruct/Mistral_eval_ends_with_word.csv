@@ -1,0 +1,159 @@
+example_number,input,word,word_pos_tags,generated_sentence,template_id,score
+1,"Напишите предложение, заканчивающееся словом ""тропинка"":
+",тропинка,['NOUN'],"I followed the winding path through the dense jungle, the sound of birdsong and the gentle rustle of leaves underfoot guiding me along the way. The sun began to set, casting long shadows over the forest floor, and I knew I had to find shelter soon. Just as I was starting to lose hope, I came upon a small clearing, where a narrow tropinka led deeper into the jungle. I followed it, my heart pounding with excitement and a little",2,0
+2,"Напишите предложение, которое оканчивается на слово ""монстр"":
+",монстр,['NOUN'],"I was terrified when I saw the monster lurking in the shadows.
+
+Моя перевод: Я был ужасно испуган, когда я видел monster в тени.
+
+(Note: In English, ""monster"" is a noun, but in Russian, it's a masculine singular adjective meaning ""monstrous"" or ""terrible"". To make it a noun, you need to add a definite or",0,0
+3,"Напишите предложение, которое оканчивается на слово ""руководить"":
+",руководить,['VERB'],"I am responsible for managing and leading a team of engineers, ensuring that projects are completed on time and to the highest standards. In my role as a project manager, I take pride in my ability to effectively communicate with stakeholders and to skillfully navigate complex project challenges, ultimately delivering successful outcomes and contributing to the growth of the company. I am committed to providing guidance and support to my team members, fostering a collaborative and innovative work environment, and empowering them to reach their full potential",0,0
+4,"Напишите предложение, последнее слово которого - ""англичанка"":
+",англичанка,['NOUN'],"1. В парке играли дети, а на диване сидела англичанка.
+2. Я видел красивую женщину в магазине, и она оказалась англичанкой.
+3. В ресторане мы познакомились с интересной англичанкой.
+4. На концерте я увидел известного певца и анг",1,0
+5,"Напишите предложение, последнее слово которого - ""красный"":
+",красный,['ADJ'],"1. Я люблю яблоки, но красные яблоки - мои любимчики.
+2. В саду растёт много красивых цветов, среди них красный малиновник.
+3. Красный автобус ходит по улице, и дети смотрят на него с удивлением.
+4. Красный лист осины",1,0
+6,"Напишите предложение, которое оканчивается на слово ""виски"":
+",виски,['NOUN'],I prefer a glass of fine scotch whiskey after a long day.,0,0
+7,"Напишите предложение, которое оканчивается на слово ""отличный"":
+",отличный,['ADJ'],"I met an excellent man at the party last night. He was very kind, funny, and had an amazing sense of humor. I'm really glad I had the chance to meet him, and I'm sure we'll have an excellent time together in the future. Overall, he was an excellent addition to the party and left a great impression on everyone.",0,0
+8,"Напишите предложение, которое оканчивается на слово ""вкусный"":
+",вкусный,['ADJ'],"I've tasted many dishes in my life, but that chocolate cake was truly a vkusny dessert. (I've tasted many dishes in my life, but that chocolate cake was really delicious.)",0,0
+9,"Напишите предложение, заканчивающееся словом ""юбка"":
+",юбка,['NOUN'],"I'd love to wear a beautiful red dress for the ball, but I think a stylish blue skirt and blouse would look even better with my new pair of boots. However, I can't help but feel a little sad, knowing that I don't have a pretty yellow or pink юбка to twirl around in.",2,0
+10,"Напишите предложение, заканчивающееся словом ""помощь"":
+",помощь,['NOUN'],I'm having trouble understanding this math problem. Could you please give me a hand with it? I really need your help.,2,0
+11,"Напишите предложение, которое оканчивается на слово ""равно"":
+",равно,['ADV'],"I am as tall as my brother, but my shoes are not as new as his.
+
+В этом предложении я говорю, что мы имеем одинаковую рост, но мои обувь не так новая, как у моего брата.",0,0
+12,"Напишите предложение, заканчивающееся словом ""отличие"":
+",отличие,['NOUN'],I have noticed a distinct difference in her behavior since she started taking that new medication.,2,0
+13,"Напишите предложение, последнее слово которого - ""логично"":
+",логично,['ADV'],"Мне кажется, что если мы потратим еще немного времени на изучение этого предмета, то мы сможем его лучше понять и это будет логично.",1,0
+14,"Напишите предложение, которое оканчивается на слово ""ужин"":
+",ужин,['NOUN'],"I'm looking forward to enjoying a delicious dinner with my family tonight. We've planned a special menu for the occasion, and I can't wait to taste the succulent main course and the scrumptious dessert. Let's make tonight's uжин a memorable one!",0,0
+15,"Напишите предложение, которое оканчивается на слово ""таблетка"":
+",таблетка,['NOUN'],I forgot to take my morning medication - a vitamin pill and a painkiller tabletka.,0,0
+16,"Напишите предложение, которое оканчивается на слово ""чайный"":
+",чайный,['ADJ'],"I enjoy sipping a cup of aromatic chamomile tea in the evening, which helps me relax and unwind before going to bed. But sometimes I prefer a more exotic option, like a spicy masala chai or a sweet matcha cha-yen.",0,0
+17,"Напишите предложение, которое оканчивается на слово ""рыба"":
+",рыба,['NOUN'],"I love fishing and catching a big, beautiful fish is always a thrill. The best part is when you finally reel in your catch and hold it up for a photo before releasing it back into the water. It's a great feeling to know that you provided a meal for your family, but even better when you can release a healthy, strong fish back into the river to continue growing and thriving. Fishing is a hobby that connects us to nature and the simple ple",0,0
+18,"Напишите предложение, которое оканчивается на слово ""старинный"":
+",старинный,['ADJ'],"I was fascinated by the old, antique, and altogether statinny clock tower that stood proudly in the town square.",0,0
+19,"Напишите предложение, заканчивающееся словом ""луна"":
+",луна,['NOUN'],"I watched the moon rise over the tranquil lake, its gentle glow illuminating the surrounding landscape.",2,0
+20,"Напишите предложение, заканчивающееся словом ""обобщить"":
+",обобщить,['VERB'],I will summarize the main points of your presentation and share them with the team to ensure everyone is on the same page.,2,0
+21,"Напишите предложение, которое оканчивается на слово ""год"":
+",год,['NOUN'],"I've been working on this project for three long years, and finally, it's coming to an end. I can't wait to see the results and start a new one - a fresh challenge for the next year or two. Let's celebrate this milestone and look forward to the future, which holds many exciting possibilities - a new beginning, a new chapter, a new opportunity, a new adventure, a new experience, a new journey, a new goal, a new",0,0
+22,"Напишите предложение, заканчивающееся словом ""лифчик"":
+",лифчик,['NOUN'],"I'd love to wear a beautiful red dress and dance at the ball, but I don't have a matching lificik to complete the look.",2,0
+23,"Напишите предложение, которое оканчивается на слово ""водка"":
+",водка,['NOUN'],I prefer sipping a glass of fine vodka after a long day at work.,0,0
+24,"Напишите предложение, заканчивающееся словом ""гражданка"":
+",гражданка,['NOUN'],"I am proud to introduce you to our new team member, Anna, who is a highly skilled engineer and a dedicated employee. She is also a proud Russian citizen and a valuable asset to our company. Anna is a true professional and a great addition to our team. I am confident that she will make significant contributions to our projects and be an excellent colleague. Please join me in welcoming Anna, our new team member and a proud Russian citizen and graždanка.",2,0
+25,"Напишите предложение, заканчивающееся словом ""распределение"":
+",распределение,['NOUN'],"I. In mathematics, the term ""normal distribution"" refers to a specific type of continuous probability distribution that is symmetric about the mean and has a distinctive bell-shaped curve. The normal distribution is often used to model real-life phenomena, such as the heights of adults or the distribution of test scores. The properties of a normal distribution, such as its mean, standard deviation, and variance, can be used to describe the characteristics of the data and to make predictions about future",2,0
+26,"Напишите предложение, заканчивающееся словом ""известие"":
+",известие,['NOUN'],I was thrilled to receive the good news about my friend's promotion and couldn't wait to share the exciting news with my family and friends. The joyful announcement brought us all great happiness and we celebrated the wonderful event with a special dinner. I even wrote an email to inform my colleagues about this happy occasion and sent them the link to the company's official press release as a source of the latest известие.,2,0
+27,"Напишите предложение, заканчивающееся словом ""юный"":
+",юный,['ADJ'],I met a very talented and juvenile artist at the exhibition.,2,0
+28,"Напишите предложение, последнее слово которого - ""выступать"":
+",выступать,['VERB'],"1. Он решил выступить на митинге и высказать свою точку зрения.
+2. Команда выступила на чемпионате и завоевала первое место.
+3. Президент выступил с речью, в которой объявил о новой политике.
+4. Актёр выступил в новой пьесе и получил высокие оценки.",1,0
+29,"Напишите предложение, которое оканчивается на слово ""очередь"":
+",очередь,['NOUN'],"I'll join the line for tickets as soon as it gets shorter.
+
+(Я присоединюсь в очередь на билеты, как только она станет короче.)",0,0
+30,"Напишите предложение, последнее слово которого - ""первый"":
+",первый,['Number'],"1. Последний в очереди был первый в следующем поезде.
+2. Он был первым, кто пришел на встречу.
+3. Я думаю, что он будет первым, кто решит эту задачу.
+4. В этом году мы будем первыми, кто посетит новую страну.
+5. Когда м",1,0
+31,"Напишите предложение, заканчивающееся словом ""приветливый"":
+",приветливый,['ADJ'],I was pleasantly surprised by the warm and friendly welcome I received at the local community center. The atmosphere was so inviting and the staff were all very pleasant and **приветливый**.,2,0
+32,"Напишите предложение, последнее слово которого - ""познакомиться"":
+",познакомиться,['VERB'],"1. Я хочу познакомиться с новыми сотрудниками на встрече.
+2. Если вы едете в Москву, пожалуйста, позвоните мне, я бы хотел познакомиться с вами.
+3. В университете есть множество возможностей познакомиться с людьми из разных стран.
+4. Я думаю",1,0
+33,"Напишите предложение, которое оканчивается на слово ""священник"":
+",священник,['NOUN'],I met a kind and compassionate priest at the church who helped me through a difficult time in my life.,0,0
+34,"Напишите предложение, которое оканчивается на слово ""президент"":
+",президент,['NOUN'],"I am proud to announce that our new company president is none other than our long-time employee and friend, John Doe.",0,0
+35,"Напишите предложение, заканчивающееся словом ""вино"":
+",вино,['NOUN'],I prefer a glass of red wine after a long day at work.,2,0
+36,"Напишите предложение, последнее слово которого - ""нарочно"":
+",нарочно,['ADV'],"1. Он сказал это нарочно, чтобы вы вздохнули.
+2. Она сделала это нарочно, чтобы меня раздразить.
+3. Он подозревал, что это нарочно сделано для его смущения.
+4. Я не подумал, что это нарочно будет так, но оказалось иначе.
+5.",1,0
+37,"Напишите предложение, последнее слово которого - ""сын"":
+",сын,['NOUN'],"1. Отец гордится своим достойным сыном.
+2. Вчерашний гость оказался отличным человеком, а его сын - даже лучше.
+3. Мама готовила специально для сына его любимую еду.
+4. В этом городе живут многие известные люди, а один из них - даже презид",1,0
+38,"Напишите предложение, последнее слово которого - ""пение"":
+",пение,['NOUN'],"1. После ужина мы поймем в гости к соседям и поужимем с ними, а потом послушаем их прекрасное пение.
+2. Она слышала прекрасное пение птиц, когда сидела на берегу озера.
+3. В церкви звучит прекрасное пение хора.
+4. Дети лю",1,0
+39,"Напишите предложение, которое оканчивается на слово ""громко"":
+",громко,['ADV'],"I played my guitar loudly and sang my heart out, the music filled the room and echoed gromko through the open windows.",0,0
+40,"Напишите предложение, которое оканчивается на слово ""плащ"":
+",плащ,['NOUN'],"I saw a man in the rain, wearing a long, red cloak, or плащ, that kept him dry.",0,0
+41,"Напишите предложение, последнее слово которого - ""встречать"":
+",встречать,['VERB'],"1. Я буду рад встречать тебя на вокзале.
+2. Мы ждем вас с большим удовольствием и будем рады встречать вас.
+3. Встречать гостей будет моя жена.
+4. Я не могу встречать вас сегодня, но могу позвонить.
+5.",1,0
+42,"Напишите предложение, которое оканчивается на слово ""водопад"":
+",водопад,['NOUN'],"I was amazed by the beauty of Niagara Falls, the most famous waterfall in the world.",0,0
+43,"Напишите предложение, которое оканчивается на слово ""барсук"":
+",барсук,['NOUN'],"I once saw a large, bushy-tailed animal scampering across the forest floor. It had short, powerful legs and a long, agile body. Its fur was a mix of brown and black, and its face was marked with distinctive white stripes. As it disappeared into the undergrowth, I couldn't help but marvel at the sight of this magnificent creature - a true master of the forest. But then, to my surprise, it reappeared,",0,0
+44,"Напишите предложение, последнее слово которого - ""музыкальный"":
+",музыкальный,['ADJ'],"1. В нашей школе есть отличный музыкальный класс.
+2. У меня есть большая коллекция музыкальных компакт-дисков.
+3. Моя сестра играет на фортепиано в музыкальном театре.
+4. В парке звучит прекрасная музыкальная мелодия.
+5. Я люблю слуша",1,0
+45,"Напишите предложение, которое оканчивается на слово ""захотеть"":
+",захотеть,['VERB'],"I wish I could speak French fluently and travel to Paris one day to immerse myself in the culture and cuisine. But for now, I'll have to content myself with watching French movies and listening to French music, and hoping that one day I'll have the opportunity and the determination to learn the language and make that dream come true. However, even if I never get to go to Paris, I'll always cherish the thought of it and the desire to experience it",0,0
+46,"Напишите предложение, последнее слово которого - ""отрегулировать"":
+",отрегулировать,['VERB'],"1. Мы должны отрегулировать температуру в помещении, чтобы комфортно жить.
+2. Если вы хотите, чтобы ваш автомобиль работал эффективно, нужно отрегулировать его двигатель.
+3. Компания предложила отрегулировать цены на товары, чтобы удовлетворить",1,0
+47,"Напишите предложение, последнее слово которого - ""состоятельный"":
+",состоятельный,['ADJ'],"1. У нас есть несколько состоятельных клиентов.
+2. Он является состоятельным бизнесменом.
+3. Его семья имеет состоятельное достатко.
+4. Я хочу стать состоятельным человеком.
+5. Эта компания имеет состоятельный капитал.
+6. Она вышла замуж за состоятельного мужчину.",1,0
+48,"Напишите предложение, заканчивающееся словом ""приходиться"":
+",приходиться,['VERB'],"I am an only child, but my mother's sister and her family live nearby, so my cousins still feel like siblings to me and I love spending time with them. It's wonderful to have such a large family that all comes together, and I feel grateful that I have so many people who care about me and who I care about in return. I'm also glad that my children will grow up knowing their cousins and having that special bond, as it's a",2,0
+49,"Напишите предложение, последнее слово которого - ""малина"":
+",малина,['NOUN'],"1. Я собираю ягоды: малину, чернику, смородину и грецкий орех.
+2. В саду растёт много малины, но я её не люблю.
+3. Малина - это деликатное ягодное вино.
+4. Малина - это маленькая птичка с ярко-красными перьями",1,0
+50,"Напишите предложение, которое оканчивается на слово ""спокойствие"":
+",спокойствие,['NOUN'],"I long for the tranquility and peace that comes with a quiet evening at home.
+
+Мой перевод:
+Я жду спокойствия и покоя, которое приносит тихая вечерняя в домашней обстановке.
+
+Перевод с английского:
+I yearn for the tranquility and calmness that comes with a quiet evening at home.",0,0

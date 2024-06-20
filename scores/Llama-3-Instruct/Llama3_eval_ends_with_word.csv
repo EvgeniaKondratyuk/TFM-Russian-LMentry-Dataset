@@ -1,0 +1,328 @@
+example_number,input,word,word_pos_tags,generated_sentence,template_id,score
+1,"Напишите предложение, заканчивающееся словом ""тропинка"":
+",тропинка,['NOUN'],"1. В лесу была узкая тропинка.
+2. Девочка пошла по тропинке.
+3. Тропинка вела к секретному входу.
+4. Вечером по тропинке шли два друга.
+5. Тропинка была покрыта мхом и корнями.
+
+Ответы:
+
+1. В лесу была узкая тропинка.
+2. Девочка пошла по тропинке",2,0
+2,"Напишите предложение, которое оканчивается на слово ""монстр"":
+",монстр,['NOUN'],"The creature that lived in the dark forest was a terrifying _______________________.
+
+The creature that lived in the dark forest was a terrifying монстр. (The creature that lived in the dark forest was a terrifying monster.) 1
+The creature that lived in the dark forest was a terrifying монстр. (The creature that lived in the dark forest was a terrifying monster.) 1
+The creature that lived in the dark forest was a terrifying монстр. (The creature that lived in the dark forest was",0,0
+3,"Напишите предложение, которое оканчивается на слово ""руководить"":
+",руководить,['VERB'],"The company needs a strong leader to руководить.
+The new manager will руководить the team.
+The CEO is responsible for руководить the company.
+The head of the department will руководить the project.
+The government official will руководить the investigation.
+The captain will руководить the ship.
+The coach will руководить the team.
+The teacher will руководить the classroom.
+The manager will руководить the store.
+The",0,0
+4,"Напишите предложение, последнее слово которого - ""англичанка"":
+",англичанка,['NOUN'],"The famous actress was a true Englishwoman, a real Englishwoman, an Englishwoman, and an Englishwoman, and finally, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an Englishwoman, an English",1,0
+5,"Напишите предложение, последнее слово которого - ""красный"":
+",красный,['ADJ'],"The sunset on the horizon was a beautiful sight, with the sky turning a deep shade of _______________.
+
+The sunset on the horizon was a beautiful sight, with the sky turning a deep shade of красный.  (The sunset on the horizon was a beautiful sight, with the sky turning a deep shade of red.)  (The sunset on the horizon was a beautiful sight, with the sky turning a deep shade of red.)  (The sunset on the horizon was a beautiful sight, with",1,0
+6,"Напишите предложение, которое оканчивается на слово ""виски"":
+",виски,['NOUN'],"The bartender poured a shot of fine Irish виски.
+The whiskey was aged for 12 years in oak barrels виски.
+The whiskey connoisseur savored the complex flavors of the виски.
+The whiskey was served neat, without any mixer or виски.
+The whiskey was a popular choice among the виски.
+The whiskey was a fine example of the art of виски.
+The whiskey was a classic cocktail made with виски.
+The whiskey was a popular drink among the виски.
+The",0,0
+7,"Напишите предложение, которое оканчивается на слово ""отличный"":
+",отличный,['ADJ'],"The new smartphone is an excellent device, it's really an outstanding product, and its price is very reasonable, so it's an excellent choice, and I think it's an excellent gift for anyone, and it's an excellent way to stay connected, and it's an excellent tool for work, and it's an excellent way to have fun, and it's an excellent way to learn, and it's an excellent way to relax, and it's an excellent way to be productive, and it's",0,0
+8,"Напишите предложение, которое оканчивается на слово ""вкусный"":
+",вкусный,['ADJ'],"The chef carefully prepared the dish, and it turned out to be _______________________.
+
+Ответ: вкусный. (The chef carefully prepared the dish, and it turned out to be delicious.) 1
+The chef carefully prepared the dish, and it turned out to be _______________________.
+
+Ответ: вкусный. (The chef carefully prepared the dish, and it turned out to be delicious.)",0,0
+9,"Напишите предложение, заканчивающееся словом ""юбка"":
+",юбка,['NOUN'],"1. Она надела новую юбку.
+2. Моя сестра любит носить юбки.
+3. В этом магазине продают юбки разной длины.
+4. Я нашел для нее красивую юбку.
+5. Она носит юбку с цветами.
+
+Translation:
+1. She put on a new skirt.
+2. My sister likes to wear skirts.
+3. This store sells skirts of different lengths.
+4. I",2,0
+10,"Напишите предложение, заканчивающееся словом ""помощь"":
+",помощь,['NOUN'],"The charity organization provides financial assistance and medical help to those in need, offering a helping hand and a sense of hope, and ultimately, a chance at a better life, with the goal of extending a hand of help.
+The charity organization provides financial assistance and medical help to those in need, offering a helping hand and a sense of hope, and ultimately, a chance at a better life, with the goal of extending a hand of help. The charity organization provides financial assistance and medical help to those in",2,0
+11,"Напишите предложение, которое оканчивается на слово ""равно"":
+",равно,['ADV'],"1. Он получил равное количество денег, как и его брат.
+2. Она сказала, что ее мнение не имеет равного.
+3. Он не может найти равное решение для этой задачи.
+4. Они живут в равном доме, но с разными условиями.
+5. Он не согласен с тем, что его мнение не имеет равного.
+
+Ответ: 1, 2, 4. (Предложения 3 и",0,0
+12,"Напишите предложение, заканчивающееся словом ""отличие"":
+",отличие,['NOUN'],"The main difference between the two companies is their approach to innovation, which is a significant отличие.
+The main difference between the two companies is their approach to innovation, which is a significant отличие.
+The main difference between the two companies is their approach to innovation, which is a significant отличие.
+The main difference between the two companies is their approach to innovation, which is a significant отличие.
+The main difference between the two companies is their approach to innovation, which is a",2,0
+13,"Напишите предложение, последнее слово которого - ""логично"":
+",логично,['ADV'],"The conclusion of the investigation was that the suspect was guilty, and it was логично.
+The final result of the experiment was that the new material was stronger than the old one, and it was логично.
+The decision of the court was that the defendant was innocent, and it was логично.
+The outcome of the competition was that the winner was the one who had trained the most, and it was логично.
+The result of the research was that the new method was more effective than the old",1,0
+14,"Напишите предложение, которое оканчивается на слово ""ужин"":
+",ужин,['NOUN'],"The tourists decided to take a boat ride to the nearby island, where they would enjoy a delicious dinner and a romantic ужин.
+
+(Translation: The tourists decided to take a boat ride to the nearby island, where they would enjoy a delicious dinner and a romantic dinner.)",0,0
+15,"Напишите предложение, которое оканчивается на слово ""таблетка"":
+",таблетка,['NOUN'],"1. Она положила на стол маленькую...
+2. Мама дала мне одну маленькую...
+3. В аптеке продавали разные виды...
+4. Я нашел маленькую таблетку в...
+5. Врач написал рецепт на одну...
+6. Моя сестра принимала маленькую...
+7. В аптеке продавали таблетки для...
+8. Я нашел маленькую таблетку в...
+9. Мама дала мне",0,0
+16,"Напишите предложение, которое оканчивается на слово ""чайный"":
+",чайный,['ADJ'],"1. В маленькой кофейне на улице была продана последняя упаковка кофе, а затем открылся новый магазинчик с широким выбором ч.
+2. Вечером, после долгого дня, я люблю сесть в кресло и пить ч.
+3. В старом доме на улице lived a kind old man who always had a pot of ч.
+4. В последний раз я пил ч в",0,0
+17,"Напишите предложение, которое оканчивается на слово ""рыба"":
+",рыба,['NOUN'],"1. В реке плавает...
+2. В море живёт...
+3. В магазине продается...
+4. В лесу обитает...
+5. В океане обитает...
+
+Ответы:
+1. В реке плавает рыба.
+2. В море живёт рыба.
+3. В магазине продается рыба.
+4. В лесу обитает рыба. (Нет, рыба не обитает в лес",0,0
+18,"Напишите предложение, которое оканчивается на слово ""старинный"":
+",старинный,['ADJ'],"The old mansion had a beautiful garden with a beautiful fountain and a old, worn-out, **старинный** door.
+
+The old mansion had a beautiful garden with a beautiful fountain and a old, worn-out, **antique** door.
+
+The old mansion had a beautiful garden with a beautiful fountain and a old, worn-out, **ancient** door.
+
+The old mansion had a beautiful garden with a beautiful fountain and a old, worn-out, **vintage** door.
+
+The correct",0,0
+19,"Напишите предложение, заканчивающееся словом ""луна"":
+",луна,['NOUN'],"1. В ночь полной луны...
+2. Я смотрел на луну...
+3. Луна светит мне путь...
+4. Вдруг я увидел луну...
+5. Луна освещает наш путь...
+
+Ответы:
+
+1. В ночь полной луны я чувствовал себя особенно счастливым.
+2. Я смотрел на луну, и моя мысль была далеко от земли.
+3",2,0
+20,"Напишите предложение, заканчивающееся словом ""обобщить"":
+",обобщить,['VERB'],"The team of experts was tasked with the mission to analyze the data and to obобщить.
+The team of experts was tasked with the mission to analyze the data and to obобщить.
+The team of experts was tasked with the mission to analyze the data and to obобщить.
+The team of experts was tasked with the mission to analyze the data and to obобщить.
+The team of experts was tasked with the mission to analyze the data and to obобщить.
+The team of experts was",2,0
+21,"Напишите предложение, которое оканчивается на слово ""год"":
+",год,['NOUN'],"1. Он получил премию за свою работу в этом году.
+2. Она окончила университет в этом году.
+3. Он купил новый автомобиль в этом году.
+4. Она родилась в этом году.
+5. Он начал работать в этом году.
+
+Ответы:
+1. год
+2. год
+3. год
+4. год
+5. год
+
+Все предложения оканчиваются на слово ""год"". Это потому, что в кажд",0,0
+22,"Напишите предложение, заканчивающееся словом ""лифчик"":
+",лифчик,['NOUN'],"The fashion designer created a stunning evening gown with a delicate lace trim and a matching bra and... лифчик.
+
+(Translation: The fashion designer created a stunning evening gown with a delicate lace trim and a matching bra and... bralette.)",2,0
+23,"Напишите предложение, которое оканчивается на слово ""водка"":
+",водка,['NOUN'],"1. Я люблю пить...
+2. В России...
+3. В магазине...
+4. В ресторане...
+5. В баре...
+
+Ответы:
+
+1. Я люблю пить водка.
+2. В России любят водку.
+3. В магазине продают водку.
+4. В ресторане сервируют водку.
+5. В баре подают водку. 6. Я заказываю водку.",0,0
+24,"Напишите предложение, заканчивающееся словом ""гражданка"":
+",гражданка,['NOUN'],"1. Она стала известной актрисой и получила звание почётной гражданка.
+2. В 1990 году она была удостоена звания почётной гражданки города.
+3. Она была избрана депутатом и стала почётной гражданкой региона.
+4. В честь ее рождения была названа улица, и она стала почётной гражданкой города.
+5. Она была награждена медалью и стала почётной",2,0
+25,"Напишите предложение, заканчивающееся словом ""распределение"":
+",распределение,['NOUN'],"The company will make a new plan for the production and distribution of goods, which will lead to a more efficient _______________.
+
+The company will make a new plan for the production and distribution of goods, which will lead to a more efficient распределение. (The company will make a new plan for the production and distribution of goods, which will lead to a more efficient distribution.)",2,0
+26,"Напишите предложение, заканчивающееся словом ""известие"":
+",известие,['NOUN'],"The news of the victory spread quickly and became a sensation, causing a stir in the city and bringing a sense of pride and joy to the people, who eagerly awaited the official announcement of the news, which would be made public in the form of a formal notice, or известие.
+The news of the victory spread quickly and became a sensation, causing a stir in the city and bringing a sense of pride and joy to the people, who eagerly awaited the official announcement of the news, which would be",2,0
+27,"Напишите предложение, заканчивающееся словом ""юный"":
+",юный,['ADJ'],"1. Он был очень...
+2. Она была очень...
+3. Они были очень...
+
+Ответы:
+1. Он был очень юный.
+2. Она была очень юной.
+3. Они были очень юны. (но более распространенная форма - Они были очень юные.) 4. Он был юным и энергичным. 5. Она была юной и красивой. 6. Они были юными и радостными. 7. Он был ю",2,0
+28,"Напишите предложение, последнее слово которого - ""выступать"":
+",выступать,['VERB'],"The actor was eager to start his new role and begin to выступать.
+The actor was eager to start his new role and begin to perform.
+The actor was eager to start his new role and begin to act.
+The actor was eager to start his new role and begin to play.
+The actor was eager to start his new role and begin to speak.
+The actor was eager to start his new role and begin to speak out.
+The actor was eager to start his new role and begin to speak out",1,0
+29,"Напишите предложение, которое оканчивается на слово ""очередь"":
+",очередь,['NOUN'],"The tourists waited in line for hours, but they were finally at the head of the __________.
+
+The tourists waited in line for hours, but they were finally at the head of the очередь. (The tourists waited in line for hours, but they were finally at the head of the queue.)",0,0
+30,"Напишите предложение, последнее слово которого - ""первый"":
+",первый,['Number'],"The winner of the competition was the youngest and most talented musician, who was the first to perform on the stage and was considered the best by the audience, and he was the first to receive the prize, and he was the first to be congratulated by the organizers, and he was the first to be interviewed by the media, and he was the first to be awarded the title of the best musician, and he was the first to be considered the greatest of all time, and he was the first",1,0
+31,"Напишите предложение, заканчивающееся словом ""приветливый"":
+",приветливый,['ADJ'],"The hotel staff was very friendly and welcoming, with a warm and приветливый smile on their faces.
+
+(Translation: The hotel staff was very friendly and welcoming, with a warm and friendly smile on their faces.)",2,0
+32,"Напишите предложение, последнее слово которого - ""познакомиться"":
+",познакомиться,['VERB'],"The company is looking for a new employee to work with them and get to know each other and maybe even познакомиться.
+The company is looking for a new employee to work with them and get to know each other and maybe even познакомиться.
+The company is looking for a new employee to work with them and get to know each other and maybe even познакомиться.
+The company is looking for a new employee to work with them and get to know each other and maybe even поз",1,0
+33,"Напишите предложение, которое оканчивается на слово ""священник"":
+",священник,['NOUN'],"The priest, who was a kind and gentle man, became a respected _______________________.
+
+The priest, who was a kind and gentle man, became a respected священник. (The priest, who was a kind and gentle man, became a respected priest.) (The priest, who was a kind and gentle man, became a respected clergyman.) (The priest, who was a kind and gentle man, became a respected minister.) (The priest, who was a kind and gentle man, became",0,0
+34,"Напишите предложение, которое оканчивается на слово ""президент"":
+",президент,['NOUN'],"The new candidate was elected as the president of the country and became the president.
+The new candidate was elected as the president of the country and became the president.
+The new candidate was elected as the president of the country and became the president.
+The new candidate was elected as the president of the country and became the president.
+The new candidate was elected as the president of the country and became the president.
+The new candidate was elected as the president of the country and became the president.
+The new candidate was",0,0
+35,"Напишите предложение, заканчивающееся словом ""вино"":
+",вино,['NOUN'],"1. Вечерний пикник на берегу реки закончился бокалом...
+2. Винный магазин на улице продавал разные сорта...
+3. Вечерний ужин в ресторане закончился бокалом...
+4. Винный фестиваль в городе привлек множество...
+5. Винный сад на даче был полон разноцветных...
+
+1. Вечерний п",2,0
+36,"Напишите предложение, последнее слово которого - ""нарочно"":
+",нарочно,['ADV'],"The company decided to fire the employee нарочно.
+The company decided to fire the employee нарочно.
+The company decided to fire the employee нарочно.
+The company decided to fire the employee нарочно.
+The company decided to fire the employee нарочно.
+The company decided to fire the employee нарочно.
+The company decided to fire the employee нарочно.
+The company decided to fire the employee нарочно.
+The company decided to fire the employee нарочно.
+The company decided to fire the employee нарочно.",1,0
+37,"Напишите предложение, последнее слово которого - ""сын"":
+",сын,['NOUN'],"1. Он является сыном...
+2. Она является дочерью, а он является сыном...
+3. Он является сыном, а она является дочерью...
+4. Она является дочерью, а он является сыном ее...
+5. Он является сыном ее...
+
+Ответы:
+1. Он является сыном предпринимателя.
+2. Она является дочерью, а он является сыном.
+3. Он является сыном, а она является дочер",1,0
+38,"Напишите предложение, последнее слово которого - ""пение"":
+",пение,['NOUN'],"The birds sang a sweet melody in harmony with the forest's пение.
+
+(Translation: The birds sang a sweet melody in harmony with the forest's singing.)",1,0
+39,"Напишите предложение, которое оканчивается на слово ""громко"":
+",громко,['ADV'],"The thunderstorm was raging outside, and the wind was howling _______________________.
+
+The thunderstorm was raging outside, and the wind was howling громко. (The wind was howling loudly.)",0,0
+40,"Напишите предложение, которое оканчивается на слово ""плащ"":
+",плащ,['NOUN'],"1. Он надел плащ и пошел в лес.
+2. Она надела плащ и ушла в город.
+3. Он купил плащ и надел его.
+4. Она купила плащ и надела его.
+5. Он надел плащ и пошел на работу.
+
+Ответы:
+1. Он надел плащ и пошел в лес.
+2. Она надела плащ и ушла в город.
+3. Он купил плащ",0,1
+41,"Напишите предложение, последнее слово которого - ""встречать"":
+",встречать,['VERB'],"The tourists were eager to explore the city and meet new people to встречать.
+The tourists were eager to explore the city and meet new people to встречать.
+The tourists were eager to explore the city and meet new people to встречать.
+The tourists were eager to explore the city and meet new people to встречать.
+The tourists were eager to explore the city and meet new people to встречать.
+The tourists were eager to explore the city and meet",1,0
+42,"Напишите предложение, которое оканчивается на слово ""водопад"":
+",водопад,['NOUN'],"The tourists were amazed by the beauty of the waterfall, which was actually a small river that flowed over a rocky cliff and became a powerful _______________.
+
+The tourists were amazed by the beauty of the waterfall, which was actually a small river that flowed over a rocky cliff and became a powerful водопад.",0,0
+43,"Напишите предложение, которое оканчивается на слово ""барсук"":
+",барсук,['NOUN'],"1. В лесу жил маленький барсук.
+2. Барсук - это маленькое млекопитающее.
+3. В лесу жил маленький барсук, который любил есть грибы.
+4. Барсук - это маленькое млекопитающее, которое живет в лесу.
+5. В лесу жил маленький барсук, который любил есть грибы и ягоды.
+
+Ответ: 1, 3,",0,0
+44,"Напишите предложение, последнее слово которого - ""музыкальный"":
+",музыкальный,['ADJ'],"The concert was a huge success, and the audience was treated to a fantastic show with a talented orchestra playing beautiful, soulful music, which was truly a magical, enchanting, and mesmerizing experience, and it was all thanks to the incredible, brilliant, and extraordinary conductor, who was a true master of his craft, and his passion for music was evident in every note, every beat, and every movement, and it was all so... музыкальный. (The concert was a huge",1,0
+45,"Напишите предложение, которое оканчивается на слово ""захотеть"":
+",захотеть,['VERB'],"The main character of the novel is a young woman who has always dreamed of becoming a famous actress, but after a series of disappointments and failures, she begins to lose her passion and eventually starts to _______________.
+The main character of the novel is a young woman who has always dreamed of becoming a famous actress, but after a series of disappointments and failures, she begins to lose her passion and eventually starts to захотеть. (to lose the desire) or (to want to give",0,0
+46,"Напишите предложение, последнее слово которого - ""отрегулировать"":
+",отрегулировать,['VERB'],"The company will need to adjust its production schedule to regulate the flow of goods and services, and then to fine-tune the process to optimize efficiency and quality, and finally to perfect the system to be able to отрегулировать.
+The company will need to adjust its production schedule to regulate the flow of goods and services, and then to fine-tune the process to optimize efficiency and quality, and finally to perfect the system to be able to отрегулировать. The company will need to adjust",1,0
+47,"Напишите предложение, последнее слово которого - ""состоятельный"":
+",состоятельный,['ADJ'],"The young entrepreneur was determined to become a successful businessman, and he worked hard to build a strong and solvent company, which eventually became a financially stable and solvent company, and he was proud to be a financially solvent and capable businessman. The young entrepreneur was determined to become a successful businessman, and he worked hard to build a strong and solvent company, which eventually became a financially stable and solvent company, and he was proud to be a financially solvent and capable businessman. The young entrepreneur was determined to become a",1,0
+48,"Напишите предложение, заканчивающееся словом ""приходиться"":
+",приходиться,['VERB'],"The new employee will have to get used to the company's rules and regulations, which will take some time, but it will eventually become second nature and not have to **приходиться**.
+The new employee will have to get used to the company's rules and regulations, which will take some time, but it will eventually become second nature and not have to bother.
+The new employee will have to get used to the company's rules and regulations, which will take some time, but it will eventually",2,0
+49,"Напишите предложение, последнее слово которого - ""малина"":
+",малина,['NOUN'],"The sweet aroma of fresh berries wafts through the air, enticing me to pick some juicy strawberries and succulent blueberries, and then, of course, to indulge in a handful of plump, ripe raspberries, and finally, to savor the sweetness of a single, luscious blackberry, and, as a special treat, to enjoy a handful of sweet, juicy, succulent, and ripe, and, of course, delicious, and, as a special treat, to enjoy",1,0
+50,"Напишите предложение, которое оканчивается на слово ""спокойствие"":
+",спокойствие,['NOUN'],"The sound of the waves crashing against the shore brought a sense of _______________________.
+The sound of the waves crashing against the shore brought a sense of спокойствие. (The sound of the waves crashing against the shore brought a sense of peace.)... More
+The sound of the waves crashing against the shore brought a sense of спокойствие. (The sound of the waves crashing against the shore brought a sense of peace.)... More
+The sound of the waves crashing against the shore brought a sense",0,0
