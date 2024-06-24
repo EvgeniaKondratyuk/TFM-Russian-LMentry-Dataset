@@ -1,0 +1,324 @@
+example_number,input,word,word_pos_tags,generated_sentence,template_id,score
+1,"Составьте предложение, используя слово ""зваться"":
+",зваться,['VERB'],"The phone rang, and I answered it, but it was just a wrong number, and I had to tell the caller to stop calling me, as it was starting to зваться annoying.
+
+(Translation: The phone rang, and I answered it, but it was just a wrong number, and I had to tell the caller to stop calling me, as it was starting to be annoying.)
+
+Corrected sentence:
+The phone rang, and I answered it, but it was just a wrong number, and",2,1
+2,"Напишите предложение со словом ""фантастика"":
+",фантастика,['NOUN'],"The new novel by the famous author is a work of science fiction, a thrilling tale of adventure and fantasy, full of action and suspense, which will transport readers to a world of wonder and magic, a true masterpiece of fantasy fiction.
+
+(Новый роман знаменитого автора - это работа научной фантастики, захватывающая история приключений и фэнтези, полная действия и напряжения, которая перенесет читателей в мир",0,0
+3,"Напишите предложение со словом ""выяснять"":
+",выяснять,['VERB'],"The detective spent hours trying to выяснить the identity of the mysterious stranger.
+The detective spent hours trying to выяснить the identity of the mysterious stranger.
+The detective spent hours trying to выяснить the identity of the mysterious stranger.
+The detective spent hours trying to выяснить the identity of the mysterious stranger.
+The detective spent hours trying to выяснить the identity of the mysterious stranger.
+The detective spent hours trying to выяснить the identity of the mysterious stranger.
+The detective spent hours",0,0
+4,"Придумайте предложение, в котором будет слово ""востребование"":
+",востребование,['NOUN'],"The company's new product has generated a high demand, which has led to a significant increase in the production costs due to the high requirement for raw materials and labor, resulting in a high level of **востребование** for the product.
+The company's new product has generated a high demand, which has led to a significant increase in the production costs due to the high requirement for raw materials and labor, resulting in a high level of **востребование** for the product.
+The company",1,1
+5,"Придумайте предложение, в котором будет слово ""расстроенный"":
+",расстроенный,['ADJ'],"The detective was расстроенный when he found out that the main suspect had escaped from the police station.
+The detective was расстроенный when he found out that the main suspect had escaped from the police station.
+The detective was расстроенный when he found out that the main suspect had escaped from the police station.
+The detective was расстроенный when he found out that the main suspect had escaped from the police station.
+The detective was расстроенный when he found out that the main suspect had escaped",1,1
+6,"Напишите предложение со словом ""опасно"":
+",опасно,['ADV'],"It is dangerous to swim in the ocean during a storm because the strong waves and powerful currents can be very hazardous to your health.
+
+(Оно опасно плавать в океане во время шторма, потому что сильные волны и мощные течения могут быть очень вредными для вашего здоровья.) 
+
+Вот несколько других предложений с словом ""опасно"":
+1. The road was too narrow and winding, making it dangerous to drive at night.
+(Дор",0,1
+7,"Напишите предложение со словом ""француженка"":
+",француженка,['NOUN'],"The French woman, who was a famous artist, had a studio in the heart of Paris.
+
+(Французская женщина, которая была известной художницей, имела студию в сердце Парижа.) 
+
+В этом предложении слово ""француженка"" заменено на ""French woman"", что является более точным переводом. ""Француженка"" означает женщину, родившуюся в Франции, а ""French woman""",0,1
+8,"Напишите предложение со словом ""обязательный"":
+",обязательный,['ADJ'],"The new employee was required to attend a mandatory training session on the first day of work, which was an obligatory part of the company's onboarding process.
+
+Обратите внимание, что в предложении есть два слова, которые могут быть переведены как ""обязательный"": ""mandatory"" и ""obligatory"". Оба слова имеют похожий смысл, но ""mandatory"" более формально и используется в официальных контекстах, а ""obligatory"" более",0,1
+9,"Составьте предложение, используя слово ""испуганный"":
+",испуганный,['ADJ'],"The tourists were terrified when they saw the huge spider crawling on the wall, and they quickly ran away, leaving their luggage behind, looking utterly испуганный.
+
+(испуганный - испуганный, испуганная, испуганны, испуганные)
+
+Answer: The tourists were terrified when they saw the huge spider crawling on the wall, and they quickly ran away, leaving their luggage behind, looking utterly испуганны. (utterly испуганны - utterly frightened)",2,1
+10,"Составьте предложение, используя слово ""разный"":
+",разный,['ADJ'],"The tourists visited different cities in Europe, but they were surprised to find that the food in each place was surprisingly similar, despite the fact that the cultures were very разный.
+The tourists visited different cities in Europe, but they were surprised to find that the food in each place was surprisingly similar, despite the fact that the cultures were very different.
+The tourists visited different cities in Europe, but they were surprised to find that the food in each place was surprisingly similar, despite the fact that the cultures were",2,1
+11,"Напишите предложение со словом ""навсегда"":
+",навсегда,['ADV'],"The couple decided to get married and spend the rest of their lives together, promising to love each other навсегда.
+The couple decided to get married and spend the rest of their lives together, promising to love each other forever.
+The couple decided to get married and spend the rest of their lives together, promising to love each other навсегда.
+The couple decided to get married and spend the rest of their lives together, promising to love each other навсегда.
+The couple decided to get married",0,1
+12,"Составьте предложение, используя слово ""ванна"":
+",ванна,['NOUN'],"The hotel room had a large ____________ with a showerhead that sprayed water in all directions.
+
+Answer: ванна (vanna) - bath. The correct translation is ""bath"" in this context. The word ""ванна"" is often used in Russian to refer to a bathtub or a bath, and it's a common word in many Russian-speaking countries. In this sentence, it's used to describe a large bathtub with a showerhead.",2,1
+13,"Придумайте предложение, в котором будет слово ""путёвка"":
+",путёвка,['NOUN'],"The travel agency offered me a special putёvka to the most beautiful beaches in the world.
+The putёvka to the concert was sold out in just a few hours.
+The putёvka to the exclusive restaurant was only available to VIP guests.
+The putёвка to the festival was a surprise gift from my friends.
+The putёvка to the spa resort was a perfect way to relax and rejuvenate.
+The putёвка to the theme park was a fun",1,0
+14,"Напишите предложение со словом ""уличный"":
+",уличный,['ADJ'],"The uличный market in the city center was bustling with activity on Saturday morning.
+
+Объясните, что это слово ""уличный"" означает:
+The word ""уличный"" is an adjective that means ""street"" or ""urban"". It is often used to describe something that is related to the street or city life, such as a street market, a street performer, or a street food vendor. In the sentence above, the word ""уличный"" is used",0,1
+15,"Напишите предложение со словом ""секунда"":
+",секунда,['NOUN'],"The clock struck the second, and I knew it was time to leave.
+Напишите предложение со словами ""секунда"" и ""минута"":
+The athlete was able to run a hundred meters in just a second, but it took him a minute to catch his breath.
+Напишите предложение со словами ""секунда"", ""минута"", ""час"":
+The athlete was able to run a hundred meters in just a second, but it took him",0,1
+16,"Напишите предложение со словом ""подросток"":
+",подросток,['NOUN'],"The young подросток was excited to go to the concert with his friends.
+
+(Translation: The young teenager was excited to go to the concert with his friends.)
+
+Note: The word ""подросток"" is often translated as ""teenager"" or ""young person"", but it can also be used to refer to a specific age range, typically between 13 and 19 years old. In this sentence, the word ""подросток"" is used to describe a young person who is likely",0,1
+17,"Напишите предложение со словом ""весна"":
+",весна,['NOUN'],"The first day of spring, or as we call it in Russia, весна, is a time of renewal and rebirth.
+
+(Перевод: Первый день весны, или как мы называем его в России, весна, - это время возрождения и рождения.) 
+
+Вот и предложение! 
+
+(If you want to make it more interesting, you could add some details about what people do during весна in Russia, like going to the parks, having picn",0,1
+18,"Напишите предложение со словом ""пикник"":
+",пикник,['NOUN'],"The family decided to have a picnic in the park on Sunday.
+
+Напишите предложение со словами ""пикник"" и ""собака"":
+The dog was excited to join the family on their picnic in the park.
+
+Напишите предложение со словами ""пикник"", ""собака"" и ""хлеб"":
+The dog sniffed around the picnic blanket, hoping to find some bread.
+
+Напишите предложение со словами ""пикник"", """,0,1
+19,"Составьте предложение, используя слово ""служить"":
+",служить,['VERB'],"The new employee was eager to serve and serve the company well.
+The new employee was eager to serve and serve the company well.
+The new employee was eager to serve and serve the company well.
+The new employee was eager to serve and serve the company well.
+The new employee was eager to serve and serve the company well.
+The new employee was eager to serve and serve the company well.
+The new employee was eager to serve and serve the company well.
+The new employee was eager to serve and serve",2,0
+20,"Составьте предложение, используя слово ""пельмени"":
+",пельмени,['NOUN'],"The chef carefully placed the pirozhki on the plate, but the guests were more interested in the pельмени.
+The chef carefully placed the pirozhki on the plate, but the guests were more interested in the pelmeni.
+The chef carefully placed the pirozhki on the plate, but the guests were more interested in the pierogi.
+The chef carefully placed the pirozhki on the plate, but the guests were more interested in the ravioli.
+The chef",2,0
+21,"Напишите предложение со словом ""самовыражаться"":
+",самовыражаться,['VERB'],"The artist felt the need to express herself through her paintings, allowing her to fully **self-express** and showcase her creativity.
+
+В этом предложении слово ""self-express"" означает ""самовыражаться"". Это глагол, который описывает процесс выражения своих мыслей, чувств и идей через искусство, речь, поведение и т.д. В этом контексте художница использует свои картины для самовыражения и демонстрации",0,1
+22,"Составьте предложение, используя слово ""вечеринка"":
+",вечеринка,['NOUN'],"The party was a huge success, with everyone having a great time at the _______________.
+
+The party was a huge success, with everyone having a great time at the вечеринке.
+
+(В этом случае ""вечеринка"" - существительное, обозначающее мероприятие.) 0/10
+The party was a huge",2,1
+23,"Напишите предложение со словом ""зебра"":
+",зебра,['NOUN'],"The zebra was running quickly across the savannah, its black and white stripes blending in with the shadows.
+
+Напишите предложение со словами ""саванна"" и ""жираф"":
+The giraffe roamed freely across the savannah, its long neck scanning the horizon for any signs of danger.
+
+Напишите предложение со словами ""лес"" и ""собака"":
+The dog ran through the forest, its tail wagging excitedly as it chased after",0,0
+24,"Составьте предложение, используя слово ""Бельгия"":
+",Бельгия,['NOUN'],"Belgium is a country located in Western Europe, bordered by the Netherlands, Germany, Luxembourg, and France. It is a federal constitutional monarchy with a population of around 11 million people. The official languages are Dutch, French, and German, but many Belgians also speak English. The country is known for its rich history, cultural heritage, and delicious cuisine, including chocolate, waffles, and beer. Belgium is also famous for its comic books, known as ""bandes dessinées""",2,0
+25,"Составьте предложение, используя слово ""сфера"":
+",сфера,['NOUN'],"The sphere of influence of the company extends to several countries in Europe and Asia.
+
+(Сфера влияния компании распространяется на несколько стран в Европе и Азии.) 1
+The sphere of activity of the artist is painting and sculpture.
+
+(Сфера деятельности художника - живопись и скульптура.) 2
+The sphere of interest of the group is environmental protection.
+
+(Сфера интересов группы - охрана окружающей среды.) 3",2,0
+26,"Составьте предложение, используя слово ""заём"":
+",заём,['NOUN'],"The company took out a loan to finance its new project, and it will pay back the debt with interest over the next five years.
+The company took out a loan to finance its new project, and it will pay back the debt with interest over the next five years.
+The company took out a loan to finance its new project, and it will pay back the debt with interest over the next five years.
+The company took out a loan to finance its new project, and it will pay back the debt",2,0
+27,"Составьте предложение, используя слово ""встать"":
+",встать,['VERB'],"1. Вставить
+2. Встать
+3. Вставить
+4. Встать
+
+Ответ: 1. Вставить, 2. Встать, 3. Вставить, 4. Встать
+
+Правильные ответы:
+1. Вставить - это глагол, означающий вставлять или вклиниваться.
+2. Встать - это глагол, означающий встать или под",2,1
+28,"Придумайте предложение, в котором будет слово ""итальянка"":
+",итальянка,['NOUN'],"The Italian chef, a beautiful Italian woman, was known for her delicious pasta dishes.
+The Italian chef, a beautiful Italian woman, was known for her delicious pasta dishes.
+The Italian chef, a beautiful Italian woman, was known for her delicious pasta dishes.
+The Italian chef, a beautiful Italian woman, was known for her delicious pasta dishes.
+The Italian chef, a beautiful Italian woman, was known for her delicious pasta dishes.
+The Italian chef, a beautiful Italian woman, was known for her delicious pasta",1,0
+29,"Напишите предложение со словом ""олимпиада"":
+",олимпиада,['NOUN'],"The Olympic Games, also known as the Olimpiada, are an international multi-sport event held every four years.
+
+Вот и ответ:
+The Olympic Games, also known as the Olimpiada, are an international multi-sport event held every four years. (Олимпийские игры, также известные как Олимпиада, - международный многоспортивный событие, которое проводится каждые четыре года.) 
+
+Вот и перевод",0,0
+30,"Придумайте предложение, в котором будет слово ""раковина"":
+",раковина,['NOUN'],"The dentist examined the patient's teeth and found a small _______________ on the surface of the tooth.
+
+Answer: раковина (cavity) or карийный разрез (caries) are both correct translations. However, in this context, ""раковина"" is more commonly used in Russian. So, the correct answer is: раковина.",1,1
+31,"Составьте предложение, используя слово ""снимать"":
+",снимать,['VERB'],"1. Я не хочу снимать...
+2. Она снимает...
+3. Он снимает...
+4. Мы снимаем...
+5. Они снимают...
+
+Ответы:
+
+1. Я не хочу снимать фильм сегодня.
+2. Она снимает фотографии на празднике.
+3. Он снимает документальный фильм о природе.
+4. Мы снимаем квартиру в центре города.
+5. Они снимают рекламу для нового продукта",2,1
+32,"Придумайте предложение, в котором будет слово ""выяснить"":
+",выяснить,['VERB'],"1. To __________ the truth about the accident, the police conducted a thorough investigation.
+2. The detective tried to __________ the identity of the suspect by analyzing the fingerprints.
+3. The scientists spent years trying to __________ the secrets of the ancient civilization.
+4. The journalist wanted to __________ the motives behind the politician's sudden resignation.
+5. The team of experts worked tirelessly to __________ the cause of the mysterious illness.
+
+Answer:
+1. To **ascertain** the truth about",1,0
+33,"Напишите предложение со словом ""тоже"":
+",тоже,['ADV'],"I also like to read books, but my friend doesn't. He prefers to watch TV. I also like to play soccer, but my sister doesn't. She prefers to play piano. We both like to eat pizza, but my brother doesn't. He prefers to eat salad. My friend and I also like to travel, but my sister doesn't. She prefers to stay at home. We all like to listen to music, but my brother doesn't. He prefers to listen to classical music",0,0
+34,"Напишите предложение со словом ""весь"":
+",весь,['PRON'],"The whole city was covered in a thick layer of fog, making it difficult to see anything at all, and the whole street was empty, except for one person who was walking down the whole street, trying to find his way back to his hotel.
+
+(Весь город был покрыт толстым слоем тумана, что делало трудным видеть что-либо вообще, и вся улица была пустой, кроме одного человека, который шел по всей улице, п",0,0
+35,"Составьте предложение, используя слово ""жалобно"":
+",жалобно,['ADV'],"The old, abandoned house stood on the hill, its windows broken and its door hanging off its hinges, looking sadly and pitifully, or rather, pitifully and sadly, or even, pitifully, sadly, and, well, just plain, pitifully, sadly, and, well, just plain, pitifully, sadly, and, well, just plain, pitifully, sadly, and, well, just plain, pitifully, sadly, and,",2,0
+36,"Придумайте предложение, в котором будет слово ""очевидный"":
+",очевидный,['ADJ'],"The most obvious reason for the company's failure was the lack of funding. It was an obvious choice to hire a new CEO. The obvious solution to the problem was to increase the production capacity. The obvious answer to the question was ""no"". The obvious sign of the company's decline was the decrease in sales. The obvious result of the new policy was a significant increase in profits. The obvious difference between the two companies was their business model. The obvious advantage of the new technology was its ability to",1,0
+37,"Придумайте предложение, в котором будет слово ""стол"":
+",стол,['NOUN'],"The table was covered with a white tablecloth, and on it there was a beautiful vase with fresh flowers. The guests were seated around the table, chatting and laughing. The hostess, a tall, elegant woman, stood at the head of the table, smiling and making sure everyone had enough to eat. The room was filled with the delicious aroma of roasting meat and the sound of clinking glasses. It was a wonderful evening, and everyone was having a great time.
+The table was covered",1,0
+38,"Придумайте предложение, в котором будет слово ""выйти"":
+",выйти,['VERB'],"1. After a long day, I like to ____________ and take a walk in the park.
+2. The company will ____________ the market with a new product next month.
+3. The fire alarm sounded, and we had to ____________ the building immediately.
+4. The tourists got lost in the city and couldn't ____________ the way back to their hotel.
+5. The team will ____________ the playoffs if they win the next game.
+
+Answer:
+1. в",1,0
+39,"Напишите предложение со словом ""наука"":
+",наука,['NOUN'],"The discovery of the Higgs boson particle in 2012 was a major breakthrough in the field of physics, and it was a significant milestone in the development of modern science, or наука.
+
+Напишите предложение со словами ""наука"" и ""физика"":
+The study of the fundamental laws of nature is a key area of research in both наука and физика, and scientists are working to understand the underlying principles that govern the behavior of matter and energy.
+
+Нап",0,1
+40,"Напишите предложение со словом ""поколение"":
+",поколение,['NOUN'],"The new smartphone is designed for the next generation of users, who are more tech-savvy and demanding than their predecessors.
+
+(Новый смартфон предназначен для следующего поколения пользователей, которые более технологически грамотны и требовательны, чем их предшественники.)",0,0
+41,"Придумайте предложение, в котором будет слово ""необычный"":
+",необычный,['ADJ'],"The artist created a необычный sculpture that looked like a fusion of a tree and a building.
+The необычный flavor of the new ice cream was a surprise to everyone who tried it.
+The необычный way the musician played the guitar was mesmerizing to the audience.
+The необычный design of the new smartphone was a hit among tech enthusiasts.
+The необычный story of the old mansion was full of secrets and surprises.
+The необычный dance move",1,1
+42,"Напишите предложение со словом ""пельмени"":
+",пельмени,['NOUN'],"The chef carefully placed the pельмени on the plate, garnishing them with fresh parsley and a dollop of sour cream.
+
+(Translation: The chef carefully placed the pelmeni on the plate, garnishing them with fresh parsley and a dollop of sour cream.) 
+
+Note: ""Пельмени"" is the Russian word for ""pelmeni"", which are a type of Russian dumpling. The word is often transliterated as ""pelmeni"" in English. 
+
+Here's a breakdown of",0,0
+43,"Напишите предложение со словом ""преступление"":
+",преступление,['NOUN'],"The police are investigating a serious crime that occurred last night in the city center.
+
+(Полиция расследует серьезное преступление, произошедшее вчера вечером в центре города.) 
+
+В этом предложении слово ""преступление"" переведено как ""crime"", что соответствует его значению в контексте. 
+
+В русском языке слово ""преступление"" может переводиться на английский язык как ""crime"", ""offence",0,1
+44,"Придумайте предложение, в котором будет слово ""мои"":
+",мои,['PRON'],"1. My favorite book is _______________________ favorite book.
+2. I'm going to the store to buy _______________________ new shoes.
+3. She is _______________________ best friend.
+4. The teacher gave _______________________ homework assignment.
+5. I'm feeling a little tired because I didn't get _______________________ enough sleep.
+
+Answer key:
+1. my
+2. my
+3. my
+4. my
+5. enough
+
+Translation:
+1. My favorite book is my favorite book.
+2.",1,0
+45,"Напишите предложение со словом ""континент"":
+",континент,['NOUN'],"The vast continent of Africa is home to many diverse cultures and languages.
+
+Напишите предложение со словами ""океан"" и ""океанский"":
+The ocean is a vast and mysterious place, and the oceanic ecosystem is still not fully understood.
+
+Напишите предложение со словами ""океан"" и ""море"":
+The ocean and the sea are often used interchangeably, but technically, the ocean refers to the vast body of saltwater that covers most of the Earth's",0,0
+46,"Придумайте предложение, в котором будет слово ""поход"":
+",поход,['NOUN'],"The group of friends decided to go on a hike in the mountains, and they spent the whole day walking and enjoying the beautiful scenery. After a few hours, they stopped to rest and have a snack, and then continued their journey. As the sun began to set, they decided to set up camp for the night and enjoy a campfire. The next morning, they packed up their gear and headed back down the mountain, feeling refreshed and invigorated after their long hike. The experience was a",1,0
+47,"Придумайте предложение, в котором будет слово ""постареть"":
+",постареть,['VERB'],"1. The old man tried to postarerate his memory by looking at old photos.
+2. The young woman decided to postarerate her skin by using a new cream.
+3. The company will postarerate its employees by providing them with additional training.
+4. The artist tried to postarerate his style by experimenting with new techniques.
+5. The athlete will postarerate his body by following a strict diet and exercise routine.
+
+Correct answers:
+1. The old man tried to improve",1,0
+48,"Составьте предложение, используя слово ""кивнуть"":
+",кивнуть,['VERB'],"The team's star player was able to kivnout the ball from the goalkeeper's hands and score a goal.
+The word ""кивнуть"" is not a real English word. It seems you meant to use the word ""kick"" instead. Here's the corrected sentence:
+
+The team's star player was able to kick the ball from the goalkeeper's hands and score a goal.",2,1
+49,"Придумайте предложение, в котором будет слово ""незнакомый"":
+",незнакомый,['ADJ'],"The detective was investigating a mysterious crime scene when he met a _______________ stranger who seemed to know more than he was letting on.
+
+(Translation: The detective was investigating a mysterious crime scene when he met a _______________ stranger who seemed to know more than he was letting on.)
+
+Answer: незнакомый (unknown) or unfamiliar (if you want to use a more formal tone) would be a good fit here. The detective is meeting someone for the first time, and the stranger's",1,1
+50,"Напишите предложение со словом ""ключ"":
+",ключ,['NOUN'],"The detective found the key to the mysterious crime in the suspect's pocket.
+
+(Детектив нашел ключ к таинственному преступлению в кармане подозреваемого.)
+
+В этом предложении слово ""ключ"" имеет значение ""средство или способ для открытия или понимания чего-то"". В этом случае, ключ - это улика, которая помогает детективу раскрыть преступление. 
+
+В других случаях, слово ""ключ"" может иметь значение ""м",0,1
